@@ -1,5 +1,6 @@
 Saturn has many moons
 maria
-mary
-magret
 maltida
+Silke
+sandra
+sarah
